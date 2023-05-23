@@ -104,6 +104,12 @@
 			<version>${mongo}</version>
 			<optional>true</optional>
 		</dependency>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongodb-driver-kotlin-sync</artifactId>
+			<version>4.10.0-alpha0</version>
+			<optional>true</optional>
+		</dependency>
 
 		<dependency>
 			<groupId>org.mongodb</groupId>
